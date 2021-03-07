@@ -1,0 +1,7 @@
+Milo A 5 2.8
+Nescafe B 9 3.2
+Oligo C 5 2.5
+Tea D 2 1.8
+Coke E 7 2.2
+Coke E 7 2.2
+Coke E 7 2.2

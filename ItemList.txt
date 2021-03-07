@@ -1,0 +1,10 @@
+Item 	 Brand 	 Cost 	 Discounted amount 	 Cost with the discount
+Butter 	 Amul 	 $350.00 	 $34.30 		 $315.70
+Lassi 	 Amul 	 $240.00 	 $23.52 		 $216.48
+Juice 	 Real 	 $1598.40 	 $156.64 		 $1441.76
+Bread 	 Britania 	 $700.00 	 $68.60 		 $631.40
+
+
+The total cost is $ 2888.40 
+The total discounted amount is $ 283.06 
+The total cost with the discount is $ 2605.34 
