@@ -1,0 +1,2 @@
+Grade1	Grade2	Grade3	Grade4	Average(GPA)
+3.70	4.00	3.30	3.70	3.67
